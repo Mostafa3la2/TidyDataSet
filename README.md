@@ -1,6 +1,6 @@
-##before you run:
+## before you run:
 You must first call dplyr before trying to run the code via : library(dplyr)
-###How the code works:
+### How the code works:
 first the code loads the x_test and x_train data and combines them together
 the code then reads the features and gets all the features about only the mean and standard deviation measurements 
 using the result data from the previous step, the code extracts only the measurements about mean ans standard deviation
